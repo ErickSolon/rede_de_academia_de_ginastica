@@ -1,0 +1,59 @@
+
+
+Aluno matriculado no plano B >>>
+Nome completo do aluno: aluno2
+CPF do aluno: 87654321
+Sexo do aluno: f
+Status do aluno: ativo
+Idade do aluno: 12
+Altura do aluno: 1.9
+
+Ativos: 2
+
+Não Ativos: 0Total de alunos: 2
+
+Aluno matriculado no plano B >>>
+Nome completo do aluno: aluno1
+CPF do aluno: 12345678
+Sexo do aluno: masculino
+Status do aluno: ativo
+Idade do aluno: 12
+Altura do aluno: 1.9
+Ativos: 1
+Não Ativos: 0
+Total de alunos: 1
+
+Aluno matriculado no plano A >>>
+Nome completo do aluno: aluno2
+CPF do aluno: 1243
+Sexo do aluno: feminino
+Status do aluno: nao_ativo
+Idade do aluno: 45
+Altura do aluno: 1.9
+Ativos: 1
+Não Ativos: 1
+Total de alunos: 2
+
+Aluno matriculado no plano A >>>
+Nome completo do aluno: aluno1
+CPF do aluno: 1234567890
+Sexo do aluno: Masculino
+Status do aluno: ativo
+Idade do aluno: 19
+Altura do aluno: 1.9
+Peso do aluno: 60.0
+Ativos: 1
+Não Ativos: 0
+Total de alunos: 1
+
+Aluno matriculado no plano B >>>
+Nome completo do aluno: aluno2
+CPF do aluno: 12345567890
+Sexo do aluno: feminino
+Status do aluno: nao_ativo
+Idade do aluno: 20
+Altura do aluno: 1.9
+Peso do aluno: 120.0
+Ativos: 1
+Não Ativos: 1
+Total de alunos: 2
